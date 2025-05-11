@@ -1,6 +1,6 @@
 # PodCast-A-Ordem-do-PMO--Criado-com-IA
 
-Todo o projeto foi criado com IA, desdea criação de PROMPTS, imagens de LOGO, Transcrição do texto em áudio
+Todo o projeto foi criado com IA, desde a criação de PROMPTS, imagens de LOGO, Transcrição do texto em áudio e criação do roteiro
 
 PROMPTS USADOS
 
