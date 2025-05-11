@@ -3,6 +3,7 @@
 Todo o projeto foi criado com IA, desdea criação de PROMPTS, imagens de LOGO, Transcrição do texto em áudio
 
 PROMPTS USADOS
+
 NOME DO PODCAST
 Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em Gerenciamento de Projetos,  e eu gostaria de uma ajuda sua para criar 10 sugestões de nomes criativos para um podcast de Implantação de Softwares de Arrecadação Previdenciária, e que tenha algum trocadilho nerd no nome.
 
